@@ -16,9 +16,11 @@ const GetInput = (props) => {
   } = props;
   const [value, setInputValue] = useState(inputValue ? inputValue : "");
   return (
+    /* Main part */
     <div className="space-y-1">
       <span className={`text-sm ${labelColor}`}>Label</span>
       <div className="relative flex items-center gap-4">
+        {/* Image adding */}
         {iconStart ? (
           <img src={Phone} className="absolute w-4 h-4 left-1" />
         ) : null}
@@ -35,6 +37,7 @@ const GetInput = (props) => {
           <img src={Lock} className="absolute w-4 h-4 right-2" />
         ) : null}
       </div>
+      {/* text bottom */}
       {bottomText ? (
         <span className={`text-sm ${labelColor}`}>Some interesting text</span>
       ) : null}
