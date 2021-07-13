@@ -11,13 +11,13 @@ To clone this project :
 git clone "https://github.com/Rubakpreyan/input-components-react"
 ```
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Demo link
 
 [Input component](https://input-component-react-tailwind.netlify.app/)
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
