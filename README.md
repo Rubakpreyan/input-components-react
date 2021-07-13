@@ -17,11 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo link
 
-<<<<<<< HEAD
 [Input component](https://input-component-react-tailwind.netlify.app/)
-=======
-[Input component]()
->>>>>>> f117fba0ae58e38456556820ecd329bfe57c4aff
 
 ## Available Scripts
 
